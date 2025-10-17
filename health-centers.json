@@ -1,0 +1,84 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mulago National Referral Hospital",
+          "type": "National Referral Hospital",
+          "contact": "+256-414-532-000",
+          "description": "Largest public hospital in Uganda"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.5825, 0.3476]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "International Hospital Kampala (IHK)",
+          "type": "Private Specialized Hospital",
+          "contact": "+256-414-342-000",
+          "description": "Leading private hospital offering specialized medical services",
+          "website": "https://www.ihk.co.ug"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.6089, 0.3174]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kampala Hospital",
+          "type": "Private Hospital",
+          "contact": "+256-414-289-600",
+          "description": "Modern private healthcare facility"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.5856, 0.3224]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nsambya Hospital",
+          "type": "General Hospital",
+          "contact": "+256-414-267-011",
+          "description": "St. Francis Hospital Nsambya"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.5878, 0.2856]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rubaga Hospital",
+          "type": "General Hospital",
+          "contact": "+256-414-270-267",
+          "description": "Private not-for-profit hospital"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.5522, 0.3067]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mengo Hospital",
+          "type": "General Hospital",
+          "contact": "+256-414-274-891",
+          "description": "Oldest hospital in Uganda"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [32.5658, 0.2950]
+        }
+      }
+    ]
+  }

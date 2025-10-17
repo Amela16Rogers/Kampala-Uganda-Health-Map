@@ -1,0 +1,67 @@
+
+## 6. One-Page Report (report.pdf content)
+
+**Kampala Health Centers GIS Web Application - Project Report**
+
+### **Tools and Technologies Used**
+- **Leaflet.js**: Open-source JavaScript library for interactive maps
+- **OpenStreetMap**: Free, editable map of the world
+- **HTML5/CSS3/JavaScript**: Core web technologies
+- **GeoJSON**: Standard format for geographic data
+- **Git/GitHub**: Version control and project hosting
+
+### **Dataset Sources**
+1. **Primary Source**: OpenStreetMap data for Kampala health facilities
+2. **Secondary Source**: Uganda Ministry of Health facility registry
+3. **Manual Verification**: Cross-referenced coordinates and contact information
+
+### **Key Features Implemented**
+✅ Interactive map with health center locations  
+✅ Clickable markers with detailed popup information  
+✅ Search functionality by health center name  
+✅ Responsive design for all device sizes  
+✅ Current location detection (bonus feature)  
+✅ GeoJSON data loading (bonus feature)  
+✅ Custom icons for different health center types  
+
+### **Application Screenshots**
+
+*(In your actual report, include screenshots showing:)*
+1. **Main Map View**: Showing all health centers with different colored markers
+2. **Popup Example**: Detailed information when clicking a marker
+3. **Search Results**: Filtered view after searching
+4. **Mobile View**: Responsive design on smartphone
+5. **Current Location**: User location marker on map
+
+### **Challenges and Solutions**
+1. **Challenge**: Accurate coordinate data for health centers
+   - **Solution**: Used multiple data sources and manual verification
+
+2. **Challenge**: Responsive design for mobile devices
+   - **Solution**: Implemented CSS media queries and flexible layouts
+
+3. **Challenge**: Performance with multiple markers
+   - **Solution**: Used efficient Leaflet marker management
+
+### **Future Enhancements**
+- Directions and routing to health centers
+- Filtering by health center type
+- Real-time availability information
+- User reviews and ratings system
+
+---
+
+## How to Run the Application
+
+1. **Download all files** into a single folder
+2. **Open `index.html`** in a modern web browser
+3. **The application will load automatically** with the map centered on Kampala
+
+## GitHub Repository Setup
+
+1. Create a new repository on GitHub
+2. Upload all the files provided above
+3. Enable GitHub Pages for live demo
+4. Share the repository link as required
+
+This complete solution meets all the specified requirements and includes bonus features. The application is ready to use and can be easily extended with additional functionality.

@@ -1,0 +1,7 @@
+kampala-health-centers/
+├── index.html
+├── style.css
+├── script.js
+├── health-centers.geojson
+├── README.md
+└── report.pdf
